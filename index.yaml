@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: '0001-01-01T00:00:00Z'
+entries:
+  demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-30T06:28:47.296218-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 763d45a998c9c924840293584205cafea99f8080db1c1d8485d56507e21cd6e8
+    name: demo
+    type: application
+    urls:
+    - https://bmchelix.github.io/helm-charts/demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-30T06:28:47.295412-07:00"
